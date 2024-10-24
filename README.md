@@ -1,3 +1,4 @@
+![logo](https://github.com/adiiiii13/adiiiii13/blob/main/Blue%20%26%20white%20Entrepreneur%20Linkedin%20Article%20Cover%20(1).png)
 <h1 align="center">Hi 👋, I'm Aditya Routh</h1>
 <h3 align="center">College Student| Aspiring Graphic and Tech Enthusiast Seeking to Innovate and Inspire</h3>
 
