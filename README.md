@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Routh</h1>
 <h3 align="center">College Student| Aspiring Graphic and Tech Enthusiast Seeking to Innovate and Inspire</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1c4W3CtPHxavd_p1SaMbkS&ust=1729862750940000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC028SPp4kDFQAAAAAdAAAAABAJ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiiiii13&label=Profile%20views&color=0e75b6&style=flat" alt="adiiiii13" /> </p>
 
 - 🔭 I’m currently working on [Project Plutoz](https://www.instagram.com/plutoz.?igsh=MXU0YmUzZHh3NnZmaw==)
